@@ -1,4 +1,4 @@
-# C++ Project Template
+# C++ Project Template [TEST]
 
 [![Build
 Status](https://travis-ci.org/joshpeterson/cpp-template.svg?branch=master)](https://travis-ci.org/joshpeterson/cpp-template)
